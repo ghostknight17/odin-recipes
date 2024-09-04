@@ -1,0 +1,26 @@
+* {
+    background-color: #4a4a4a;
+    color: #f8f8ff;
+    font-family: Verdana, serif;
+    font-size: 12px;
+}
+
+a {
+    color: #b6d8f5;
+}
+
+h1 {
+    font-family: Brush Script MT, serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+img {
+    width: auto;
+    height: 360px;
+}
